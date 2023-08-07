@@ -1,10 +1,8 @@
 # Word Cloud de Notícias sobre o Twitter no G1
 
-**Vinicius Branco Scortegagna**
+`Vinicius Branco Scortegagna`
 
 <https://www.linkedin.com/in/vinicius-br-sc/>
-
----
 
 ## Resumo
 
