@@ -1,4 +1,4 @@
-# Word Cloud de Notícias sobre o Twitter no G1
+# Web Mining de Notícias sobre o Twitter no G1
 
 `Vinicius Branco Scortegagna`
 
